@@ -1,2 +1,4 @@
-CSE215
-This is a basic java Color Switch game that i made in Java Course.Well,it has the basic features of the main game.I will update it when i will get free time. 
+### Color Switch
+![Color-Switch-Game](http://tempat-wisatabali.org/wp-content/uploads/2018/08/color-game-app-color-lines-game-color-game-app.png)
+
+This is a similar game like the early color-switch one. However, it just has only limited numbers of shapes and complexities. 
